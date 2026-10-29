@@ -1,0 +1,25 @@
+# Environment variables & secrets
+.env
+*.env
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large raw & processed datasets (keep metadata and sample OAS1_0001_MR1 for inference)
+data/raw/
+data/processed/*
+!data/processed/OAS1_0001_MR1/

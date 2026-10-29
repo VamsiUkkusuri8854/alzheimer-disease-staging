@@ -1,0 +1,95 @@
+patient_id,age,sex,education,cdr,mmse,class_id,class_name,mri_folder
+OAS1_0001_MR1,74,F,2,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0001_MR1
+OAS1_0002_MR1,55,F,4,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0002_MR1
+OAS1_0003_MR1,73,F,4,0.5,27.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0003_MR1
+OAS1_0010_MR1,74,M,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0010_MR1
+OAS1_0011_MR1,52,F,3,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0011_MR1
+OAS1_0013_MR1,81,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0013_MR1
+OAS1_0015_MR1,76,M,2,0.5,28.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0015_MR1
+OAS1_0016_MR1,82,M,2,0.5,27.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0016_MR1
+OAS1_0018_MR1,39,M,3,0.0,28.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0018_MR1
+OAS1_0019_MR1,89,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0019_MR1
+OAS1_0020_MR1,48,F,5,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0020_MR1
+OAS1_0021_MR1,80,F,3,0.5,23.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0021_MR1
+OAS1_0022_MR1,69,F,2,0.5,23.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0022_MR1
+OAS1_0023_MR1,82,M,2,0.5,27.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0023_MR1
+OAS1_0026_MR1,58,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0026_MR1
+OAS1_0028_MR1,86,F,2,1.0,27.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0028_MR1
+OAS1_0030_MR1,65,F,2,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0030_MR1
+OAS1_0031_MR1,88,M,1,1.0,26.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0031_MR1
+OAS1_0032_MR1,89,M,4,0.0,28.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0032_MR1
+OAS1_0033_MR1,80,F,4,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0033_MR1
+OAS1_0034_MR1,51,M,5,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0034_MR1
+OAS1_0035_MR1,84,F,3,1.0,28.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0035_MR1
+OAS1_0039_MR1,70,M,4,0.5,29.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0039_MR1
+OAS1_0041_MR1,62,F,2,0.5,28.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc1 (1)\disc1\OAS1_0041_MR1
+OAS1_0042_MR1,80,M,4,0.5,29.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\OAS1_0042_MR1
+OAS1_0044_MR1,47,F,4,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0044_MR1
+OAS1_0046_MR1,64,M,2,0.5,22.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0046_MR1
+OAS1_0052_MR1,78,F,1,1.0,23.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0052_MR1
+OAS1_0053_MR1,83,F,1,1.0,21.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0053_MR1
+OAS1_0056_MR1,72,F,3,1.0,15.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0056_MR1
+OAS1_0058_MR1,46,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0058_MR1
+OAS1_0060_MR1,79,M,4,0.5,29.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0060_MR1
+OAS1_0062_MR1,73,F,3,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0062_MR1
+OAS1_0064_MR1,77,F,1,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0064_MR1
+OAS1_0065_MR1,90,M,2,0.0,25.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0065_MR1
+OAS1_0066_MR1,66,F,1,0.5,28.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0066_MR1
+OAS1_0067_MR1,71,F,4,1.0,27.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0067_MR1
+OAS1_0068_MR1,67,F,3,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0068_MR1
+OAS1_0069_MR1,33,M,4,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0069_MR1
+OAS1_0070_MR1,63,F,3,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0070_MR1
+OAS1_0071_MR1,49,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0071_MR1
+OAS1_0072_MR1,60,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0072_MR1
+OAS1_0073_MR1,69,F,2,1.0,21.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0073_MR1
+OAS1_0074_MR1,43,M,4,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0074_MR1
+OAS1_0075_MR1,83,F,3,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0075_MR1
+OAS1_0078_MR1,64,F,3,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc2\disc2\OAS1_0078_MR1
+OAS1_0082_MR1,75,F,2,0.5,28.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0082_MR1
+OAS1_0083_MR1,90,F,5,0.0,27.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0083_MR1
+OAS1_0084_MR1,81,F,2,0.5,27.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0084_MR1
+OAS1_0085_MR1,70,F,2,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0085_MR1
+OAS1_0086_MR1,47,F,4,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0086_MR1
+OAS1_0094_MR1,66,F,2,0.5,30.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0094_MR1
+OAS1_0096_MR1,47,F,5,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0096_MR1
+OAS1_0098_MR1,67,F,2,0.5,18.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0098_MR1
+OAS1_0106_MR1,81,F,2,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0106_MR1
+OAS1_0109_MR1,61,F,4,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0109_MR1
+OAS1_0110_MR1,84,M,3,0.0,28.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0110_MR1
+OAS1_0112_MR1,69,F,5,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0112_MR1
+OAS1_0113_MR1,83,F,2,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0113_MR1
+OAS1_0114_MR1,62,M,2,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0114_MR1
+OAS1_0115_MR1,72,M,5,0.5,26.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc3\disc3\OAS1_0115_MR1
+OAS1_0116_MR1,52,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0116_MR1
+OAS1_0120_MR1,70,M,4,0.5,26.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0120_MR1
+OAS1_0122_MR1,83,F,5,1.0,22.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0122_MR1
+OAS1_0123_MR1,83,F,3,0.5,24.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0123_MR1
+OAS1_0124_MR1,73,M,2,0.5,23.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0124_MR1
+OAS1_0130_MR1,68,M,3,0.0,26.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0130_MR1
+OAS1_0133_MR1,65,F,5,0.0,30.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0133_MR1
+OAS1_0134_MR1,80,M,2,1.0,20.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0134_MR1
+OAS1_0135_MR1,64,M,2,0.0,29.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0135_MR1
+OAS1_0137_MR1,87,F,2,1.0,22.0,2,Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0137_MR1
+OAS1_0138_MR1,80,M,2,0.0,28.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0138_MR1
+OAS1_0139_MR1,72,F,3,0.0,28.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0139_MR1
+OAS1_0142_MR1,70,M,4,0.5,27.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0142_MR1
+OAS1_0143_MR1,66,M,2,0.5,30.0,1,Very Mild Dementia,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0143_MR1
+OAS1_0146_MR1,82,F,5,0.0,28.0,0,Cognitively Normal,C:\Users\ACER\Downloads\oasis_cross-sectional_disc4\disc4\OAS1_0146_MR1
+OAS1_0155_MR1,71,M,4,0.5,28.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0155_MR1
+OAS1_0157_MR1,86,F,4,0.0,30.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0157_MR1
+OAS1_0158_MR1,81,M,5,0.5,26.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0158_MR1
+OAS1_0161_MR1,84,F,2,0.5,27.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0161_MR1
+OAS1_0164_MR1,81,F,2,0.5,28.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0164_MR1
+OAS1_0165_MR1,74,F,2,0.0,29.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0165_MR1
+OAS1_0166_MR1,80,F,2,0.5,27.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0166_MR1
+OAS1_0169_MR1,88,F,2,0.0,30.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0169_MR1
+OAS1_0170_MR1,71,M,2,0.0,29.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0170_MR1
+OAS1_0176_MR1,88,F,3,0.0,29.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0176_MR1
+OAS1_0177_MR1,54,F,4,0.0,30.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0177_MR1
+OAS1_0179_MR1,87,F,2,0.5,21.0,1,Very Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0179_MR1
+OAS1_0180_MR1,80,F,4,0.0,30.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0180_MR1
+OAS1_0181_MR1,49,F,4,0.0,30.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0181_MR1
+OAS1_0184_MR1,65,F,2,1.0,16.0,2,Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0184_MR1
+OAS1_0185_MR1,78,F,2,1.0,17.0,2,Mild Dementia,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0185_MR1
+OAS1_0186_MR1,84,M,5,0.0,29.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0186_MR1
+OAS1_0188_MR1,48,M,4,0.0,30.0,0,Cognitively Normal,D:\alzheimer-mri-staging\data\raw\oasis_cross-sectional_disc5\OAS1_0188_MR1
